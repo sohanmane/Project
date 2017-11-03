@@ -1,4 +1,5 @@
 ABCDEFGHI
+<<<<<<< HEAD
 asas
 asas
 asas
@@ -15,3 +16,6 @@ sa
 sa
 s
 a
+=======
+erjhgtfierugter
+>>>>>>> b41effb4771474fe9109126dd6dc72a0256c861c
