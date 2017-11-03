@@ -8,4 +8,6 @@ main()
 	printf("Add=%d\n",c);
 	c=sub(a,b);
 	printf("Sub=%d\n",c);
+	c=mul(a,b);
+	printf("Mul=%d\n",c);
 }
