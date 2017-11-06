@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 afkafmdkmsdkvmsvk
+<<<<<<< HEAD
 =======
 sdjdnsfjkldv vksdjn sdfj
 fa 
@@ -7,3 +8,12 @@ ksdlf
 
 sdfl
 >>>>>>> master
+=======
+asdbjf2433njhk234
+234234234
+dasff
+234234
+dfd
+23423
+
+>>>>>>> 29eab90f4df5371ff491bb8c02ef7f03be4ac3ea
