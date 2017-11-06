@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 afkafmdkmsdkvmsvk
+=======
+sdjdnsfjkldv vksdjn sdfj
+fa 
+ksdlf
+
+sdfl
+>>>>>>> master
